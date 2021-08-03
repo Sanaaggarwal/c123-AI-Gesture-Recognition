@@ -1,0 +1,23 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px 5px rebeccapurple;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+#footer{
+    bottom:0;
+    position:fixed;
+    background-color: gray;
+    width:100%;
+    text-align:center;
+    line-height:2;
+    color:black;
+}
+canvas{
+ border:3px solid fuchsia;
+ box-shadow:5px 5px 5px red;
+}
